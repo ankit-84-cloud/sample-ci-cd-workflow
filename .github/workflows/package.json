@@ -2,6 +2,6 @@
   "name": "sample-ci-cd-workflow",
   "version": "1.0.0",
   "scripts": {
-    "test": "echo \"Test passed\""
+    "test": "echo \"All tests passed\""
   }
 }

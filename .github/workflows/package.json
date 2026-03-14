@@ -1,10 +1,10 @@
 {
   "name": "sample-ci-cd-workflow",
   "version": "1.0.0",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"All tests passed\""
   },
-  "main": "index.js",
   "keywords": [],
   "author": "",
   "license": "ISC",

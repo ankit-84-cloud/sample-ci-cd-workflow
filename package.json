@@ -1,0 +1,20 @@
+{
+  "name": "sample-git-flow",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ankit-84-cloud/sample-ci-cd-workflow.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ankit-84-cloud/sample-ci-cd-workflow/issues"
+  },
+  "homepage": "https://github.com/ankit-84-cloud/sample-ci-cd-workflow#readme"
+}

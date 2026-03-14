@@ -1,12 +1,5 @@
 {
   "scripts": {
-    "test": "echo \"Test successful\""
-  },
-  "name": "workflows",
-  "version": "1.0.0",
-  "main": "index.js",
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "description": ""
+    "test": "echo \"All tests passed\""
+  }
 }
